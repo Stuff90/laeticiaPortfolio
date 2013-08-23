@@ -1,0 +1,46 @@
+{
+	"header":{
+		"number":"07",
+		"title":"AUTOPORTRAIT",
+		"client":"HETIC",
+		"color":"#eb622d",
+		"role":"Design / Intégration",
+		"url":"http://labs.laetitiachenuc.fr/gallery"
+	},
+	"content":[
+		{
+			"type":"img",
+			"url":"autoportrait-website.png",
+			"alt":"Website",
+			"cssclass":"fading",
+			"fadingOpt":"500",
+			"width":"100%",
+			"height":"auto"
+		},
+		{
+			"type":"cols",
+			"width":"50%",
+			"list":[
+				{
+					"type":"text",
+					"fadingOpt":"auto:right",
+					"value":"<h5>Le concept</h5><p>Afin d’illustrer un autoportrait, j’ai décidé de réaliser une gallerie photo. On y retrouve des photos de moi-même prises à travers le reflet de lunettes de soleil de personnes qui m’ont appris beaucoup de choses.</p>"
+				},
+				{
+					"type":"text",
+					"fadingOpt":"auto:left",
+					"value":"<h5>La mise en scène</h5><p>Pour mettre ces photos en scène, j’ai décidé de les intégrer dans un site au design rétro et jouer avec mes connaissances en JS grâce à l’utilisation de tweens. (attention, site optimisé seulement pour Google chrome)</p>"
+				}
+			]
+		},
+		{
+			"type":"losanges",
+			"main":"autoportrait-losange-main.png",
+			"time":"auto",
+			"side":{
+					"left":"autoportrait-losange-left.png",
+					"right":"autoportrait-losange-right.png"
+			}
+		}
+	]
+}

@@ -1,0 +1,46 @@
+{
+	"header":{
+		"number":"04",
+		"title":"SITE WEB",
+		"client":"XV DE FRANCE",
+		"color":"#3879c3",
+		"role":"Chef de projet / Graphiste mobile",
+		"url":"1er prix aux Digikawards"
+	},
+	"content":[
+		{
+			"type":"img",
+			"url":"xv-de-france-website.png",
+			"alt":"Website",
+			"cssclass":"fading",
+			"fadingOpt":"500",
+			"width":"100%",
+			"height":"auto"
+		},
+		{
+			"type":"cols",
+			"width":"50%",
+			"list":[
+				{
+					"type":"text",
+					"fadingOpt":"auto:right",
+					"value":"<p>Répartis en 18 équipes de 6, nous avons répondu à un appel d'offres fictif afin de repenser la communication numérique du XV de France. C'était ma première expérience en tant que chef de projet. Notre concept ? Nouveau site, nouvelle communauté, mêmes valeurs</p>"
+				},
+				{
+					"type":"text",
+					"fadingOpt":"auto:left",
+					"value":"<p>Les moyens ? Un site web responsive ainsi que différents displays judicieusement choisis comme un habillage de site sur lequipe.fr. Notre idée nous a permis de remporter la compétition, rencontré le directeur marketing du XV de France et gagné les Digikaawards.</p>"
+				}
+			]
+		},
+		{
+			"type":"img",
+			"url":"xv-de-france-home.png",
+			"alt":"Website",
+			"cssclass":"fading",
+			"fadingOpt":"auto",
+			"width":"100%",
+			"height":"auto"
+		}
+	]
+}

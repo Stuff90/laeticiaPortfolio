@@ -1,0 +1,52 @@
+{
+	"header":{
+		"number":"03",
+		"title":"GO FEST",
+		"client":"HETIC",
+		"color":"#fb6165",
+		"role":"Designer web",
+		"url":""
+	},
+	"content":[
+		{
+			"type":"slider",
+			"controls":3,
+			"color":"#fb6165",
+			"fadingOpt":"700:top",
+			"mask":{
+				"img":"gofest-slider-mask.png",
+				"cssclass":"content-slides-mask-gofest"
+			},
+
+			"sprite":{
+				"img":"gofest-slider-sprite.png",
+				"cssclass":"content-slides-wrapper-gofest"
+			}
+		},
+		{
+			"type":"cols",
+			"width":"50%",
+			"list":[
+				{
+					"type":"text",
+					"fadingOpt":"500:right",
+					"value":"<p> Au début de ma troisième année à HETIC, mon équipe et moi avons laissé libre cours à notre imagination pour réaliser le projet de notre choix par groupe de trois. Nous avons donc élaboré une plateforme sociale pour les festivaliers nommée Go Fest. J'ai participé à la conception globale et au design : un site minimaliste, dynamique et coloré afin de retranscrire un univers festif.</p>"
+				},
+				{
+					"type":"text",
+					"fadingOpt":"500:left",
+					"value":"<p>A la manière de Facebook, Go fest permet d’avoir une vue d’ensemble sur l’activité festive de ses amis. Le plus ? On peut retrouver tous les festivals à proximité d’un simple clic et du contenu exclusif sur ses stars préférées.</p>"
+				}
+			]
+		},
+		{
+			"type":"losanges",
+			"main":"gofest-losange-main.png",
+			"time":"auto",
+			"side":{
+					"left":"gofest-losange-left.png",
+					"right":"gofest-losange-right.png"
+			}
+		}
+	]
+}

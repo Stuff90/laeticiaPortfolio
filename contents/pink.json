@@ -1,0 +1,34 @@
+{
+	"header":{
+		"number":"06",
+		"title":"THE PINK PANTHER",
+		"client":"HETIC",
+		"color":"#d44c92",
+		"role":"Motion Designer",
+		"url":""
+	},
+	"content":[
+		{
+			"type":"vimeo",
+			"url":"http://player.vimeo.com/video/38238997?title=0&amp;byline=0&amp;portrait=0",
+			"width":"100%",
+			"height":"70%"
+		},
+		{
+			"type":"cols",
+			"width":"50%",
+			"list":[
+				{
+					"type":"text",
+					"fadingOpt":"500",
+					"value":"<p>Dans le cadre d'une semaine de découverte du logiciel After Effect à HETIC, nous avons eu deux jours pour réaliser une vidéo. Le sujet ? Couleurs, formes et typographie sur le cinéma.</p>"
+				},
+				{
+					"type":"text",
+					"fadingOpt":"500",
+					"value":"<p>L’univers de la Panthère rose a une forte identité graphique et m’a tout de suite inspiré. Cette vidéo a été reprise dans un article d’HETIC reprennant les meilleurs vidéos de ces deux semaines intensives.</p>"
+				}
+			]
+		}
+	]
+}

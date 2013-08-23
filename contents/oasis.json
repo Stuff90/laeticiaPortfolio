@@ -1,0 +1,62 @@
+{
+	"header":{
+		"number":"05",
+		"title":"FRUUUUUITE QUI PEUT",
+		"client":"OASIS",
+		"color":"#96bc21",
+		"role":"Chef de projet / Directrice artistique",
+		"url":"2ème place / 18"
+	},
+	"content":[
+		{
+			"type":"slider",
+			"controls":4,
+			"color":"#96bc21",
+			"height":500,
+			"fadingOpt":"200:top",
+			"mask":{
+				"img":"oasis-slider-mask.png",
+				"cssclass":"content-slides-mask-oasis"
+			},
+
+			"sprite":{
+				"img":"oasis-slider-sprite.png",
+				"cssclass":"content-slides-wrapper-oasis"
+			}
+		},
+		{
+			"type":"cols",
+			"width":"50%",
+			"list":[
+				{
+					"type":"text",
+					"fadingOpt":"auto:right",
+					"value":"<p>Nous avons dû imaginer un plan marketing fun et fruité autour de la fin du monde afin de répondre à un appel d’offre fictif. Fruuuuuite qui peut est la solution mobile adaptée. J'ai pu mener mon équipe à la deuxième place parmi les dix-huit équipes d'héticiens grâce à cet advergame audacieux et décalé.</p>"
+				},
+				{
+					"type":"text",
+					"fadingOpt":"auto:left",
+					"value":"<p>Mon périmètre d’action s’est étendu du design du site aux maquettes mobiles en passant par des displays tout en assurant le suivi et la mise en forme du livrable. Pour plus de détails, téléchargez le pdf <a target=\"_blank\" href=\"Livrable_Oasis.pdf\">ici</a>.<br /></p>"
+				}
+			]
+		},
+		{
+			"type":"img",
+			"url":"oasis-youtube.png",
+			"alt":"Youtube",
+			"cssclass":"fading",
+			"fadingOpt":"auto",
+			"width":"100%",
+			"height":"auto"
+		},
+		{
+			"type":"img",
+			"url":"oasis-website.png",
+			"alt":"Website",
+			"cssclass":"fading",
+			"fadingOpt":"auto",
+			"width":"100%",
+			"height":"auto"
+		}
+	]
+}

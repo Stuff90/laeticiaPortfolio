@@ -1,0 +1,53 @@
+
+{
+	"header":{
+		"number":"08",
+		"title":"ADDONS MARKET",
+		"client":"ADDONS MARKET",
+		"color":"#1da9f9",
+		"role":"Direction graphique",
+		"url":"http://www.addons-market.com/"
+	},
+	"content":[
+		{
+			"type":"slider",
+			"controls":4,
+			"color":"#1da9f9",
+			"fadingOpt":"700:top",
+			"mask":{
+				"img":"addons-website-slider-mask.png",
+				"cssclass":"content-slides-mask-addons"
+			},
+
+			"sprite":{
+				"img":"addons-website-slider-sprite.png",
+				"cssclass":"content-slides-wrapper-addons"
+			}
+		},
+		{
+			"type":"cols",
+			"width":"50%",
+			"list":[
+				{
+					"type":"text",
+					"fadingOpt":"auto:right",
+					"value":"<h5>Le concept</h5><p>Addons market est une place de marché permettant de vendre ou trouver des thèmes et modules pour vos sites web. Actuellement découpé en six univers, il s’adresse aux particuliers mais aussi aux développeurs. </p>"
+				},
+				{
+					"type":"text",
+					"fadingOpt":"auto:left",
+					"value":"<h5>La réalisation graphique</h5><p>La réalisation de ce site e-commerce s’est effectuée sur plus de trois mois en parallèle de mon cursus scolaire. Le but étant d’obtenir un site esthétique avec une navigation facile et efficace. La structure du site a été pensée pour simplifier au maximum le parcours utilisateur et respecter les contraintes qu’impliquent un site e-commerce.</p>"
+				}
+			]
+		},
+		{
+			"type":"img",
+			"url":"addons-draft.png",
+			"alt":"Draft",
+			"cssclass":"fading",
+			"fadingOpt":"auto",
+			"width":"100%",
+			"height":"auto"
+		}
+	]
+}

@@ -1,0 +1,109 @@
+{
+	"header":{
+		"number":"02",
+		"title":"BBOX AFFINITY",
+		"client":"BOUYGUES TELECOM",
+		"color":"#36c1d6",
+		"role":"Graphiste web - Motion designer",
+		"url":"1er Prix BBOX Challenge"
+	},
+	"content":[
+		{
+			"type":"img",
+			"url":"bouygues-trophy.png",
+			"alt":"Trophy",
+			"cssclass":"fading",
+			"fadingOpt":"500:right",
+			"width":"100%",
+			"height":"auto"
+		},
+		{
+			"type":"cols",
+			"width":"50%",
+			"list":[
+				{
+					"type":"text",
+					"fadingOpt":"auto:right",
+					"value":"<p>Le Bbox Challenge c’est 226 étudiants répartis en 90 équipes et venant de 59 établissements différents. Après plusieurs étapes de présélections, nous avons su séduire le jury avec une application audacieuse qui place le smartphone au centre de la consommation télévisuelle...</p><h5>Le Context</h5><p>Depuis une dizaine d’année, les français se désintéressent lentement mais sûrement de la télévision.Chaque opérateur fait de son mieux pour offrir à l’utilisateur une série d’applications TV se voulant à la hauteur des contenus web. Mais il faut se rendre à l’évidence : à l’heure actuelle, les capacités techniques des téléviseurs empêchent de proposer des solutions suffisamment séduisantes pour des utilisateurs familiers des smartphones, bien plus ergonomiques et adaptés au surf. Qui a le courage de poster un statut Facebook en pianotant avec la télécommande de la télévision ?</p>"
+				},
+				{
+					"type":"text",
+					"fadingOpt":"auto:left",
+					"value":"<h5>Les Opportunités</h5><p>D’autre part, le mobile n’a jamais eu une place aussi importante dans notre quotidien, et l’évolution est particulièrement frappante lorsque l’on parle de mobile connecté. Pour Bouygues, c’est l’occasion de reprendre les choses en main ! L’équipe #CCC a décidé de rendre à la télévision le rôle qu’elle joue le mieux : diffuser du contenu vidéo, ni plus, ni moins. C’est l’utilisation du mobile qui changera la donne, car ces appareils ont aussi leur rôle de prédilection : l’interaction avec l’utilisateur ! Grâce aux possibilités de la Bbox, nous entendons réconcilier ces deux univers !<br /><br />Je vous laisse découvrir le concept à travers la vidéo ci-dessous ainsi que les maquettes.</p>"
+				}
+			]
+		},
+		{
+			"type":"vimeo",
+			"url":"http://player.vimeo.com/video/58709315?title=0&amp;byline=0&amp;portrait=0",
+			"width":"640",
+			"height":"360"
+		},
+		{
+			"type":"sliderVertical",
+			"controls":6,
+			"color":"#36c1d6",
+			"fadingOpt":"200:top",
+			"mask":{
+				"img":"bouygues-slider-mask.png",
+				"cssclass":"content-slides-mask-bouygues"
+			},
+			"sprite":{
+				"img":"bouygues-slider-sprite.png",
+				"cssclass":"content-slides-wrapper-bouygues"
+			},
+			"side":{
+				"title":[
+					"L'application qui connaît son utilisateur",
+					"Quand le spectateur devient acteur",
+					"Je regarde, tu regardes, il regarde…",
+					"Vers de nouveaux horizons",
+					"Anticiper les besoins de l’utilisateur",
+					"Qui est là ?"
+				],
+				"text":[
+					"Dès l'ouverture de l'application, Bbox Affinity prouve à l'utilisateur son efficacité. Plutôt que de zapper plusieurs minutes le temps de trouver un programme convenable, de dernier n'a qu'à choisir parmi cette liste de suggestions: elle contient les 3 programmes actuellement diffusés les plus susceptibles de séduire l'utilisateur. Il n'a qu'à cliquer pour passer sur la chaîne choisie. Et à chaque utilisation, les rédiction de Bbox Affinity sont toujours plus efficace !",
+					"Bbox Affinity redonne le pouvoir au téléspectateur.<br />Devant lui : le programme, diffusé sur sa télévision.<br />Dans ses mains, la révolution !<br />L’utilisateur va pouvoir juger l’émission, et donc améliorer la pertinence des suggestions futures de Bbox Affinity. Mieux : si le programme ne lui convient pas, il n’a qu’à agiter son smartphone (mouvement capté grâce à l’accéléromètre) ou appuyer sur l’icône centrale pour passer directement à un autre programme conseillé par Bbox Affinity. Devant sa série préférée, il peut programmer l’enregistrement automatique de l’épisode suivant. Le tout est bien sûr accompagné de nombreuses informations sur le programme actuellement visionné.",
+					"Si les smartphones ont autant de succès, c’est bien entendu en très grande partie grâce à la dimension sociale qu’ils intègrent. Une dimension que nous n’avons pas oubliée : en quelques secondes, l’utilisateur peut partager sur Twitter et/ou Facebook son avis sur le programme actuellement visionné. En bonus, le flux twitter de l’émission est visible sur l’application !",
+					"Vous l’avez compris, la plus-value de Bbox Affinity est de se nourrir des affinités de l’utilisateur pour proposer un contenu toujours plus pertinent. C’est dans cette optique que l’application propose sur l’écran « suggestions » toute une série de programmes à l’utilisateur. Toujours dans ce but d’optimisation, il peut très facilement dire s’il juge la proposition intéressante ou si le programme ne lui convient pas. Un bon moyen, au fil de ses pérégrinations, de découvrir des émissions dont il ne soupçonnait pas l’existence…",
+					"Pascal vient de découvrir une nouvelle émission de cuisine à laquelle il a tout de suite adhéré. Il ne sait pas s’il sera là pour la prochaine diffusion, mais ce n’est pas un problème : il n’a qu’à programmer très simplement une alerte. Le lendemain, cinq minutes avant le début de l’émission, Pascal reçoit une notification.<br />Encore dans les transports, il décide d’activer la fonction de pause à distance de la Bbox pour ne pas rater le début. Ou préfère-t-il l’enregistrer pour plus tard ? Il n’a que l’embarras du choix.",
+					"Notre application ne serait pas complète sans un espace dédié au profil de l’utilisateur. Ici, il pourra retrouver de nombreuses statistiques sur sa consommation télévisuelle, parcourir et affiner les suggestions qu’il a validées, ou encore ajuster ses préférences."
+				],
+				"img":"bouygues-slider-side.png"
+			}
+		},
+		{
+			"type":"cols",
+			"width":"50%",
+			"list":[
+				{
+					"type":"img",
+					"url":"bouygues-website.png",
+					"alt":"Trophy",
+					"cssclass":"fading",
+					"fadingOpt":"auto:left",
+					"width":"100%",
+					"height":"auto"
+				},
+				{
+					"type":"img",
+					"url":"bouygues-facebook.png",
+					"alt":"Trophy",
+					"cssclass":"fading",
+					"fadingOpt":"auto:right",
+					"width":"100%",
+					"height":"auto"
+				}
+			]
+		},
+		{
+			"type":"img",
+			"url":"bouygues-splash.png",
+			"alt":"Trophy",
+			"cssclass":"fading bouygues-last-img",
+			"fadingOpt":"auto:top",
+			"width":"100%",
+			"height":"auto"
+		}
+	]
+}
